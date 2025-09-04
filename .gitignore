@@ -36,3 +36,6 @@ Thumbs.db
 
 # Uv (virtual environment manager)
 .uv/
+
+data/
+
